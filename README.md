@@ -26,12 +26,6 @@ I love solving complex problems, whether they are in **mathematics, software, or
 - **Go** (Learning for cloud/distributed systems)
 - **Bash/PowerShell** (Scripting & automation)
 
-### Security Tools
-- Wireshark, Nmap, Suricata
-- Wazuh SIEM, Sysmon
-- MITRE ATT&CK Framework
-- Sigma/YARA Rules (Learning)
-
 ### Operating Systems
 - **Arch Linux** (Daily driver)
 - Windows (for log analysis)
