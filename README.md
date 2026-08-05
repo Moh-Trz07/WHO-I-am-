@@ -2,6 +2,7 @@
 
 🎯 **Aspiring Threat Hunter & Detection Engineer**  
 🎓 Master's Student in Networks & Distributed Systems | Djillali Liabes University
+
 💻 Python and Go Developer | Arch Linux User  
 🔍 Passionate about log analysis, detection engineering & cyber defense.
 
